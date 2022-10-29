@@ -1,0 +1,119 @@
+# Copyright (C) 2022 
+# This file is distributed under the same license as the Timezone Converter Widget plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Timezone Converter Widget 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tz-converter\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-29T03:13:56+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: tz-converter\n"
+
+#. Plugin Name of the plugin
+msgid "Timezone Converter Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid "Widget for converting time between timezones"
+msgstr ""
+
+#: includes/converter-widget.php:47
+msgid "Timezone Converter"
+msgstr ""
+
+#: includes/converter-widget.php:98
+msgid "Initial Time"
+msgstr ""
+
+#: includes/converter-widget.php:105
+msgid "Time"
+msgstr ""
+
+#: includes/converter-widget.php:107
+msgid "6:00 PM"
+msgstr ""
+
+#: includes/converter-widget.php:114
+msgid "Timezone"
+msgstr ""
+
+#: includes/converter-widget.php:124
+msgid "Datetime Format"
+msgstr ""
+
+#: includes/converter-widget.php:126
+msgid "M d, Y H:i:s A T"
+msgstr ""
+
+#: includes/converter-widget.php:135
+msgid "Labels"
+msgstr ""
+
+#: includes/converter-widget.php:142
+msgid "\"From\" Text"
+msgstr ""
+
+#: includes/converter-widget.php:144
+msgid "From"
+msgstr ""
+
+#: includes/converter-widget.php:151
+msgid "\"To\" Text"
+msgstr ""
+
+#: includes/converter-widget.php:153
+msgid "To"
+msgstr ""
+
+#: includes/converter-widget.php:162
+msgid "HTML Tags"
+msgstr ""
+
+#: includes/converter-widget.php:169
+msgid "Label Tag"
+msgstr ""
+
+#: includes/converter-widget.php:171
+#: includes/converter-widget.php:191
+msgid "span"
+msgstr ""
+
+#: includes/converter-widget.php:189
+msgid "Datetime Tag"
+msgstr ""
+
+#: includes/converter-widget.php:211
+msgid "Container"
+msgstr ""
+
+#: includes/converter-widget.php:227
+msgid "Label"
+msgstr ""
+
+#: includes/converter-widget.php:234
+#: includes/converter-widget.php:297
+#: includes/converter-widget.php:358
+msgid "Color"
+msgstr ""
+
+#: includes/converter-widget.php:259
+#: includes/converter-widget.php:383
+msgid "Spacing"
+msgstr ""
+
+#: includes/converter-widget.php:290
+msgid "Input"
+msgstr ""
+
+#: includes/converter-widget.php:315
+msgid "Width"
+msgstr ""
+
+#: includes/converter-widget.php:351
+msgid "Datetime"
+msgstr ""
